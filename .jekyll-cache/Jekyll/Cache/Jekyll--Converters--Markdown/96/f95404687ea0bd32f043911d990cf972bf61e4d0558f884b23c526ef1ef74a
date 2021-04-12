@@ -1,0 +1,18 @@
+I"+<h2 id="creating-a-blog-website">Creating a blog website</h2>
+<p>I wasn’t sure what kind of website I wanted to create. I was thinking to do from a scratch for a blog website, but it seemed it was complicated to make it with a free domain. After some research, I decided to use Github just because I thought it would be nice to learn Github at the same time.</p>
+
+<p>Followed guides on the GitHub for Jekyll.  When I got an error while installing bundle for Ruby, this code helped me.</p>
+
+<p>This is for Mac.
+‘gem install -n /usr/local/bin jekyll’</p>
+
+<p>Also few videos from this YouTube helped me a lot.
+<a href="https://www.youtube.com/watch?v=wCOInE7-E0I">Youtube</a></p>
+
+<h2 id="learning-c">Learning C++</h2>
+<p>Besides creating a website, I learned how to make a simple snake game with C++. It was great to learn some loop functions and libraries and so on.</p>
+
+<p>Before C++, I learned how to code in Python and R mainly for a machine learning.
+Currently, thinking what to make from a scratch. It should be fun and great to learn something new.</p>
+
+:ET
